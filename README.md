@@ -10,3 +10,4 @@ teste 06
 
 teste 04
 branch 2
+branch 3
